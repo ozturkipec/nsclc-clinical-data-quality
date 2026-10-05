@@ -2,6 +2,11 @@
 
 A portfolio project combining Python-based clinical data-quality checks with a Power BI report of demographics and tumor characteristics.
 
+## Power BI Dashboard
+
+![Lung cancer clinical data overview](dashboard.png)
+
+
 ## Source
 
 [AACR Project GENIE BPC NSCLC v2.0-public](https://aacrprojectgenie.org/data/bpc-nsclc-v2-0-public/), accessed via [cBioPortal](https://genie.cbioportal.org/study/summary?id=nsclc_public_genie_bpc).
